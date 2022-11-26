@@ -10562,7 +10562,7 @@ video.js-lazy + .loader-spin {
   display: -ms-flexbox !important;
   display: flex !important; }
 
-.lang-is-fr .lang-fr-content {
+.lang-is-fr .lang-ru-content {
   display: none !important; }
 
 .lang-is-fr .select-lang__item[id="fr"] {
